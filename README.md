@@ -1,5 +1,4 @@
 # 🛡️SOC-Lab-AIO
 Emil Martínez Moreno - Matricula 10166165
 ![Static Badge](https://img.shields.io/badge/Linux--1?style=for-the-badge&logo=Linux&logoColor=%23FF8000&logoSize=auto&labelColor=white&color=black)
-![Static Badge](https://img.shields.io/badge/Wazuh--2?style=for-the-badge&logo=Wazuh&logoSize=auto&labelColor=%2333CCFF&color=black&link=https%3A%2F%2Fyoutu.be%2Fg9zpIOGCK5g%3Fsi%3D7UlMlj8lkO2suWuA)
 ![Wazuh](https://img.shields.io/badge/Wazuh-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0OCA0OCI+PHBhdGggZmlsbD0iI2ZmZmZmZiIgZD0iTTI0IDBDMTAuOTcxIDAgMCAxMC45NzEgMCAyNHMxMC42MjkgMjQgMjQgMjQgMjQtMTAuNjI5IDI0LTI0UzM3LjAyOSAwIDI0IDBtMS4zNzEgMzIuOTE0LTQuMTE0LTEzLjAyOS00LjExNCAxMy4wMjloLTMuMDg2TDguNTcxIDE0Ljc0M0gxMmwzLjc3MSAxMi4zNDMgMy43NzItMTIuMzQzaDMuMDg2bDMuNzcgMTIuMzQzIDMuNzcyLTEyLjM0M0gzMy42bC01LjE0MyAxOC4xNzF6bTEwLjk3MS4zNDNjLTEuNzE0IDAtMi43NDMtMS4zNzItMi43NDMtMi43NDMgMC0xLjcxNCAxLjM3Mi0yLjc0MyAyLjc0My0yLjc0MyAxLjM3MiAwIDIuNzQzIDEuMzcxIDIuNzQzIDIuNzQzcy0xLjAyOCAyLjc0My0yLjc0MyAyLjc0MyIvPjwvc3ZnPg==)
