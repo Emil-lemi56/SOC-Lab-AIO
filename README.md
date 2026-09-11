@@ -9,5 +9,8 @@ Emil Martínez Moreno - Matricula 10166165
 [![Ubuntu Server](https://img.shields.io/badge/Ubuntu%20Server-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/server)
 
 >SOC Lab, usando las herramientas como, Suricata para generar las alertas del internet usando las 20 reglas de MITRE ATT&CK como el T1048 (Exfiltration
-Over Alternative Protocol), T1572 (Protocol Tunneling), etc. Zeek para registrar los datos por protocolo y Wazuh para mostrarlo en el Dashboard de forma bonita 
+Over Alternative Protocol), T1572 (Protocol Tunneling), etc. Zeek para registrar los datos por protocolo y Wazuh para mostrarlo en el Dashboard de forma bonita
+
+## 🎯Objetivo
+
 ## 🧾Tabla de contenido
