@@ -101,7 +101,7 @@ Para expandir el SOC más allá de la capa de detección de red (NIDS/NSM):
 - **T-Pot / Cowrie** — honeypots, tráfico de ataque real de alta confianza.
 - **YARA** — firmas de malware, integrable con Wazuh (FIM) y Suricata (file extraction).
 
-## ✍️ Autor
+## Autor
 
 *Emil — Matrícula 10166165*
 Proyecto del curso **Gestión de Incidentes**, PUCMM.
