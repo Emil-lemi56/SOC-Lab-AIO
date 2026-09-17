@@ -1,13 +1,15 @@
 # 🛡️ Tutorial: Cómo Implementar un SOC (Wazuh + Suricata + Zeek)
 ### Laboratorio SOC AIO · Gestión de Incidentes · PUCMM
 
-[![Wazuh](https://img.shields.io/badge/SIEM-Wazuh%204.14-0073C4?style=for-the-badge)](URL_AQUI)
-[![Suricata](https://img.shields.io/badge/IDS-Suricata%208.0-E8472E?style=for-the-badge)](URL_AQUI)
-[![Zeek](https://img.shields.io/badge/NSM-Zeek%208.0%20LTS-4A4A4A?style=for-the-badge)](URL_AQUI)
-[![Ubuntu](https://img.shields.io/badge/OS-Ubuntu%20Server%2024.04-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](URL_AQUI)
-[![Curso](https://img.shields.io/badge/Curso-Gesti%C3%B3n%20de%20Incidentes-7C4DFF?style=for-the-badge&logo=googleclassroom&logoColor=white)](URL_AQUI)
-[![Estado](https://img.shields.io/badge/Estado-En%20progreso-D4A017?style=for-the-badge&logo=statuspage&logoColor=white)](URL_AQUI)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectemos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emil-martinez-moreno-1007b8334/)
+<p align="center">
+  <a href="URL_AQUI"><img src="https://img.shields.io/badge/SIEM-Wazuh%204.14-0073C4?style=for-the-badge" alt="Wazuh"></a>
+  <a href="URL_AQUI"><img src="https://img.shields.io/badge/IDS-Suricata%208.0-E8472E?style=for-the-badge" alt="Suricata"></a>
+  <a href="URL_AQUI"><img src="https://img.shields.io/badge/NSM-Zeek%208.0%20LTS-4A4A4A?style=for-the-badge" alt="Zeek"></a>
+  <a href="URL_AQUI"><img src="https://img.shields.io/badge/OS-Ubuntu%20Server%2024.04-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu Server"></a>
+  <a href="URL_AQUI"><img src="https://img.shields.io/badge/Curso-Gesti%C3%B3n%20de%20Incidentes-7C4DFF?style=for-the-badge&logo=googleclassroom&logoColor=white" alt="Curso"></a>
+  <a href="URL_AQUI"><img src="https://img.shields.io/badge/Estado-En%20progreso-D4A017?style=for-the-badge&logo=statuspage&logoColor=white" alt="Estado"></a>
+  <a href="https://www.linkedin.com/in/TU-USUARIO/"><img src="https://img.shields.io/badge/LinkedIn-Conectemos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+</p>
 
 > Tutorial completo, paso a paso, para desplegar un SOC All-in-One (Wazuh + Suricata + Zeek) sobre un único nodo Linux. No es solo una lista de comandos: cada fase documenta también los errores reales que aparecieron al construirlo y **por qué** ocurrieron — porque esa es la habilidad que realmente se evalúa en Gestión de Incidentes: leer un log de error y llegar a la causa raíz, no solo copiar comandos de un manual.
 
