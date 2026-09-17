@@ -1,6 +1,6 @@
 # 🦉 Zeek (Network Security Monitor)
 
-[⬅ Volver al índice](../README.md)
+[⬅ Volver al índice](README.md)
 
 Zeek complementa a Suricata: mientras Suricata detecta por firmas, Zeek registra **metadatos estructurados de cada conexión y protocolo** (`conn.log`, `dns.log`, `http.log`, `ssl.log`, `files.log`, `notice.log`), habilitando threat hunting y correlación posterior.
 
