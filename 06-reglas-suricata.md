@@ -1,6 +1,6 @@
 # 🚨 Reglas Custom de Suricata
 
-[⬅ Volver al índice](../README.md)
+[⬅ Volver al índice](README.md)
 
 Set de 20 firmas propias (SID 9000001–9000020), cubriendo exfiltración de datos, C2, inyección SQL, fuerza bruta, túneles DNS, exploits conocidos, escaneo de puertos y anomalías TLS/ICMP. Cada una incluye su clasificación MITRE ATT&CK.
 
