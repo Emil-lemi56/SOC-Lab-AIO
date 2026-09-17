@@ -1,6 +1,6 @@
 # 🧩 Arquitectura y Dimensionamiento
 
-[⬅ Volver al índice](../README.md)
+[⬅ Volver al índice](README.md)
 
 ## Visión general del stack
 
