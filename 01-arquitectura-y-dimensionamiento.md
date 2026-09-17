@@ -31,7 +31,7 @@ Este es un laboratorio académico, no el entorno de producción de la tabla ante
 
 ## Topología de Red
 
-[Diagrama de arquitectura]([https://viewer.diagrams.net/?tags=%7B%7D&lightbox=1&highlight=light-dark(#0000FF,#007FFF)&edit=_blank&layers=1&link-icons=1&nav=1&title=Diagrama%20del%20proyecto&dark=auto#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D14NN5cwaQN2bHJM37xGf8hieWwIvLvHZZ%26export%3Ddownload](https://viewer.diagrams.net/?tags=%7B%7D&lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=Diagrama%20del%20proyecto&dark=auto#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D14NN5cwaQN2bHJM37xGf8hieWwIvLvHZZ%26export%3Ddownload))
+[Diagrama de arquitectura](https://viewer.diagrams.net/?tags=%7B%7D&lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=Diagrama%20del%20proyecto&dark=auto#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D14NN5cwaQN2bHJM37xGf8hieWwIvLvHZZ%26export%3Ddownload)
 
 | Interfaz | IP | Rol |
 |---|---|---|
