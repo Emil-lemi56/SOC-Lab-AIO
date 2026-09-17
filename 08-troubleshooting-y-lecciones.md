@@ -1,6 +1,6 @@
 # 🔍 Troubleshooting y Lecciones
 
-[⬅ Volver al índice](../README.md)
+[⬅ Volver al índice](README.md)
 
 Esta sección no es una lista de comandos que funcionaron: es el diagnóstico detrás de cada problema real que apareció al construir este SOC. En un curso de Gestión de Incidentes, esa es la parte que realmente importa — la capacidad de leer un log de error y encontrar la causa raíz, no solo copiar comandos.
 
