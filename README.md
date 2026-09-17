@@ -37,7 +37,7 @@ El servidor usa **dos interfaces de red con roles estrictamente separados**:
 | `enp0s8` | Captura pasiva (Suricata + Zeek) | `192.168.1.10/24` | **Sin gateway** — nunca debe tener salida a Internet ni ruta por defecto |
 | `enp0s17` | Gestión / SSH / actualizaciones | DHCP (NAT) | Única interfaz con salida real a Internet |
 
-Detalle completo de la topología y el dimensionamiento en **[docs/01](docs/01-arquitectura-y-dimensionamiento.md)**.
+Detalle completo de la topología y el dimensionamiento en **[docs/01](01-arquitectura-y-dimensionamiento.md)**.
 
 ## 📐 Parámetros del Entorno
 
