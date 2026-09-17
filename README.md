@@ -2,10 +2,10 @@
 ### Laboratorio SOC AIO · Gestión de Incidentes · PUCMM
 
 <p align="center">
-  <a href="URL_AQUI"><img src="https://img.shields.io/badge/SIEM-Wazuh%204.14-0073C4?style=for-the-badge" alt="Wazuh"></a>
-  <a href="URL_AQUI"><img src="https://img.shields.io/badge/IDS-Suricata%208.0-E8472E?style=for-the-badge" alt="Suricata"></a>
-  <a href="URL_AQUI"><img src="https://img.shields.io/badge/NSM-Zeek%208.0%20LTS-4A4A4A?style=for-the-badge" alt="Zeek"></a>
-  <a href="URL_AQUI"><img src="https://img.shields.io/badge/OS-Ubuntu%20Server%2024.04-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu Server"></a>
+  <a href="https://share.google/5jpwj914SSlLpsK14"><img src="https://img.shields.io/badge/SIEM-Wazuh%204.14-0073C4?style=for-the-badge" alt="Wazuh"></a>
+  <a href="https://www-huntress-com.translate.goog/cybersecurity-101/topic/what-is-suricata?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc"><img src="https://img.shields.io/badge/IDS-Suricata%208.0-E8472E?style=for-the-badge" alt="Suricata"></a>
+  <a href="https://share.google/U43SqRNpzSgPKReSy"><img src="https://img.shields.io/badge/NSM-Zeek%208.0%20LTS-4A4A4A?style=for-the-badge" alt="Zeek"></a>
+  <a href="https://share.google/zWFHePGAl1XCdco6N"><img src="https://img.shields.io/badge/OS-Ubuntu%20Server%2024.04-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu Server"></a>
   <a href="URL_AQUI"><img src="https://img.shields.io/badge/Curso-Gesti%C3%B3n%20de%20Incidentes-7C4DFF?style=for-the-badge&logo=googleclassroom&logoColor=white" alt="Curso"></a>
   <a href="URL_AQUI"><img src="https://img.shields.io/badge/Estado-En%20progreso-D4A017?style=for-the-badge&logo=statuspage&logoColor=white" alt="Estado"></a>
   <a href="https://linkedin.com/in/emil-martinez-moreno-1007b8334"><img src="https://img.shields.io/badge/LinkedIn-Conectemos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
