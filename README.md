@@ -8,7 +8,90 @@ Emil Martínez Moreno - Matricula 10166165
 [![Suricata](https://img.shields.io/badge/Suricata-F2701D?style=for-the-badge&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAEAAAABACAIAAAAlC%2BaJAAAHwElEQVR42u2Za4xdVRXH%2F2vvc%2B5r5s7c6RQ601IeEtoUaQdEHjE0qBiCweLjA9EoieGDH0w06hdJUIxBTY0l1RKDxjRIg29CUoNWjAYkAUxFtELlUWBKO20nnZneedzHOWfvvf5%2BuNPy6MDcYQabJndnf7i5WWfv%2Fdtr%2Fdde%2BxwhiTO5GZzhrQPQAegAdAA6AB2ADsDpbNFiB6BCTuzC9D4d382JPZzZr%2Bk4fROAREUpLDfl86Vvg5x1pfSsOfFcEGMXDyCLKOY4O4JvcOTh8OofQnVvIQ4gNDAEKgnAiFgrxgoEqbNR%2F3vN6hux6nqJuwCSFDGnA%2BDExodXdupz22MdhWcjUVIAQFp0s4QQACBhhKWCQSTODpi1t9oLP%2FFmH%2F5%2FAFreD7XRsPt7ueqTWaqJFxACnlj023jNQFCImMsbt%2Bxqe8XtpntgMeG0YIDWZH50T3js6%2FkwMdmggJhjEELM3P9DIEJIpSip7bPXfj8auOwdMywQgAoxbmS3%2F8tX4JOmF0N90%2FMCKEWE%2BUi8witAGOEcZmKKERHl7XVbc6uvfmextBAAKsT4sReynbeGtJEGMZhz9chZIaClFWxWlxXCTBJSTyOYwxgmb2nypdymn8UrLn4HDO0DECSz%2BtT9n4nrh%2BsZT91UAKBYg6hQLm3aYgeH2Kzq%2BAszj%2F0wmtyfBJwaUS13lXLiS4O9t%2FxKct0EFpSX2jYlIWbqz5tLtcPTDcJrcOQpXT2LRvzyoWj1lWJzpjwQmg2ZmUoTaDqXvSO81prsaoxOPbwZYoTvxkHWCv0D%2F5S9f6w6BSWcTJWnKFQNJABUUI%2Fv%2BEKlume6FpzSvF2G0gmPrud2ZRs%2BmTv%2FigUF0gKcVf3TtkgR4l4TCM%2FgqKf04JAl6idGAUBMUNOsa5oBcxm%2F4cFMNePkw3cvfS1EVYjJDj7bc%2FQZN%2FTZwa%2Fuqnx%2Be5SvSJDgJDgJXtSh1emZJJqOHQy1KsT037ylWb4oTwT3ms2cnSmn6zQH92Sv%2FhtioLqEHiCA%2BlO%2FL9AU1mwEOfPQj9LJKZdRPSMlnJ70BjPNUsknTXf0ZQCmq9J1w9eMp4Z5PKCO6hHD1HbvbGWMpQEgKcbSu8beJ5JmcKPDpCYHnhfHkNE4uvzy4C0cQja7DnhGCnfsQGuAqLu%2F3lCmbQBkrNdD7dnH6TMxFu2lx3kAWrnbHd2fHjlQa2hz379Msabvlh8woEtM4X03rb5j16rbHsz1roxogjPqEBzooI16awA3PlLgG8LsLaPIaTMhx0fd6PDrisXFZSEqxSI79FIxMPHE0UMko8pAsxGKBRudNwRjR7ff7kePeOrsmSJUwITZ6U3PWWkm9NrOgSNGijHSgy%2FmzlnbmnrRHhAAyI4ehJeQMaROROidofUZssPDAPxUNQrUbHaPGRAcaHIAtFnLDbzHXvrRbgjVzOuE4AAHd%2BzQyakXrwEA8NWqZlRHkRhAfPa5duU669F4%2BTmx0cov3e2c0L8m5eBgciUAEudDfSoqVeja0IAjPUNGV50A2pRAeweZZi44goZxFwBt1rVWTxLNxo4BMF29TSc2UCFC0jGLtLdvBQCJYk2T5ivPa6JBZd6oFoUqkLqlPoltLmRioOVLrwXgJyeS4Ze9ESQOJFRFjToSICW2SAr9xYs2UFWM8cfH3H%2F%2BkQQAYX4NKDXAmvwS10JSKFcgjeLy7suugarE%2BeCFjlRLMupdVlx3VUGNOmFAKUjlgx83xS4ED8CW%2B5JE1em8AlAHdVQHU%2B5bMgAxBmT58o3p8vN6rv7IK9%2F4Yn3v083hfd0qwQlyJTEmJE03NpGlqhmRcdqU%2Bjd9rjG8T6IYZKjVrIc60Yzz9pDAZ5pbce7ShZAIydKaS%2FI%2FflCPj2cjI%2BnhkSP3bqNDEShd%2BSEAWq81XnoRGWmlLMjddMvUk49Ob7tz8J4HiheunXzikZxKEnjKzWfuGJrxsuqCNa2UujQhJCIgbRTHZw9esPmn3esvj%2FsG4lTrtqvnio2aNCXOtbwfUs4kWvnAh4%2FtfKDkmRwYpobjOx%2BoJfQZ54%2BfYGIP039O%2FpzzW1fSpROxSCurkZpbuXrNPb8cvu3LRjnyk239N2zKD64qJa5m8sUQ9KK1hPD5F47a%2FLqLh%2FZ%2F55vReLWmaGf%2FxTBnpHDVRokihiDWLpmIZxlExFiogjz3js3913%2FMPf6Eq06%2BunULM40aadlj2TXXHdy6pStx0XR96u9Pju16KHHwnmxDwcGhnujyGz%2F17r8XIiFC50bvv09DOHzfz00cV9avL2wY6tt4be3pp6KBQduoy4rB6qN%2Fbdx373TQYIxo4Nttv%2B0CzfuvuuTeHVCFMe8mwAmG1k8%2FNSXG2HJ5TsPR3%2Fz60F132anpukBVzclCWYSgiBiR1uU4Itf99nfdQ0Ptx88iXy3i9TMxhJNqaUlGWoTGJCMj%2B7%2F17eSRvzXIYAwAVbWkFTGAAQLQY0z06ZvXfPfOBa1%2BsQBvKJjeoviiDxJZAEd2%2FGJk690YmyAQAGdNVKnElV7T3W3SzFR61u%2FYLoW8iLRbxy0ZQNuEbuJ445n%2FBpdFlUru7LPiZX22u2tByz1NAG3L6XR8H1igH3jyti4irVRzQjFnrAc638g6AB2ADkAHoAPQAegAdAA6AB2ADkAH4Mxs%2FwMVjiNFLRBoMAAAAABJRU5ErkJggg%3D%3D)](https://suricata.io)
 [![Ubuntu Server](https://img.shields.io/badge/Ubuntu%20Server-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/server)
 
->SOC Lab, usando las herramientas como, Suricata para generar las alertas del internet usando las 20 reglas de MITRE ATT&CK. Zeek para registrar los datos por protocolo y Wazuh para mostrarlo en el Dashboard de forma bonita
+>Tutorial completo, paso a paso, para desplegar un SOC All-in-One (Wazuh + Suricata + Zeek) sobre un único nodo Linux. No es solo una lista de comandos: cada fase documenta también los errores reales que aparecieron al construirlo y por qué ocurrieron — porque esa es la habilidad que realmente se evalúa en Gestión de Incidentes: leer un log de error y llegar a la causa raíz, no solo copiar comandos de un manual.
+
+Objetivo del Proyecto
+
+Diseñar e implementar un Centro de Operaciones de Seguridad (SOC) All-in-One capaz de:
+
+Detectar intrusiones y tráfico anómalo en tiempo real mediante un IDS de firmas (Suricata).
+Registrar y analizar el tráfico de red a nivel de protocolo mediante un motor NSM (Zeek).
+Centralizar, correlacionar y visualizar todos los eventos en un SIEM único (Wazuh), incluyendo el auto-monitoreo del propio servidor SOC.
+
+Todo sobre un solo nodo Ubuntu Server, lo cual obliga a tomar decisiones reales de dimensionamiento, segmentación de red y tolerancia a fallos — no un entorno de juguete.
+
+🧠 Filosofía de este tutorial
+
+La mayoría de las guías de laboratorio muestran el comando final que funcionó y nada más. Este repositorio hace lo contrario a propósito: la sección de Troubleshooting y Lecciones documenta los errores reales encontrados durante la implementación —desde un curl -sO mal escrito hasta un YAML que rompía el servicio por una indentación— junto con el método de diagnóstico usado para resolverlos. Los comandos de código obsoleto o roto que aparecían en los materiales originales del curso no se reproducen aquí; cada fragmento de código en este repositorio fue verificado contra la documentación oficial vigente de cada herramienta.
+
+🧩 Arquitectura General
+
+Mostrar imagen
+
+El servidor usa dos interfaces de red con roles estrictamente separados:
+
+Interfaz	Rol	Dirección IP	Notas
+enp0s8	Captura pasiva (Suricata + Zeek)	192.168.1.10/24	Sin gateway — nunca debe tener salida a Internet ni ruta por defecto
+enp0s17	Gestión / SSH / actualizaciones	DHCP (NAT)	Única interfaz con salida real a Internet
+
+Detalle completo de la topología y el dimensionamiento en docs/01.
+
+📐 Parámetros del Entorno
+Parámetro	Valor
+Sistema operativo	Ubuntu Server 24.04 LTS (VirtualBox)
+SIEM	Wazuh 4.14.x (Manager + Indexer + Dashboard, AIO)
+IDS	Suricata 8.0.x (modo IDS, solo alerta)
+NSM	Zeek 8.0 (línea LTS)
+Fuente de reglas pública	Emerging Threats — ET Open
+Reglas custom	20 reglas Suricata propias (SID 9000001–9000020)
+Log de eventos Suricata	/var/log/suricata/eve.json
+Logs Zeek	/opt/zeek/logs/current/*.log
+📚 Tabla de Contenidos
+#	Guía	Contenido
+01	Arquitectura y Dimensionamiento	Topología de red, sizing de referencia, redimensionamiento de disco
+02	Instalación de Wazuh (AIO)	Preparación del SO, instalador asistido, retención de índices, riesgos
+03	Suricata IDS	Instalación, servicio, reglas, socket de control, monitoreo en vivo
+04	Zeek NSM	Instalación, configuración standalone, rotación de logs
+05	Integración Suricata + Zeek → Wazuh	Agente local, decoders, reglas de correlación
+06	Reglas Custom de Suricata	Las 20 firmas, mapeo MITRE ATT&CK y notas de corrección
+07	Scripts de Zeek	Scripts NSM disponibles y pendientes
+08	Troubleshooting y Lecciones	Diagnóstico real de cada incidente de la implementación
+🚦 Orden Recomendado de Implementación
+ 1. Definir arquitectura y redimensionar disco → docs/01
+ 2. Instalar Wazuh AIO → docs/02
+ 3. Instalar y configurar Suricata → docs/03
+ 4. Instalar y configurar Zeek → docs/04
+ 5. Integrar ambos sensores con Wazuh → docs/05
+ 6. Desplegar el set de reglas custom → docs/06
+ 7. Desplegar los scripts de Zeek → docs/07
+ 8. Generar tráfico de prueba y validar alertas de extremo a extremo
+✅ Estado del Proyecto
+Componente	Estado
+Wazuh AIO (Manager + Indexer + Dashboard)	✅ Operativo
+Suricata + 20 reglas custom	✅ Operativo
+Ingesta Suricata → Wazuh	✅ Operativo
+Zeek	🟡 Pendiente de despliegue completo
+Correlación Suricata + Zeek (regla 100150)	🟡 Pendiente de validar
+Socket de control de Suricata (suricatasc)	🟡 Error de permisos por resolver
+
+Detalle en docs/08.
+
+🗺️ Roadmap — Próximos Pasos
+
+Para expandir el SOC más allá de la capa de detección de red (NIDS/NSM):
+
+MISP — threat intelligence real, para alimentar los scripts de intel de Zeek (intel-dns, intel-ssh, intel-tor).
+TheHive + Cortex — gestión de casos e investigaciones, cerrando el ciclo detección → respuesta.
+Shuffle / n8n — SOAR, automatización de respuesta.
+Velociraptor / osquery — forense y threat hunting de endpoint.
+OpenVAS / Greenbone — gestión de vulnerabilidades.
+T-Pot / Cowrie — honeypots, tráfico de ataque real de alta confianza.
+YARA — firmas de malware, integrable con Wazuh (FIM) y Suricata (file extraction).
+✍️ Autor
+
+(tu nombre) — Matrícula (tu matrícula) Proyecto del curso Gestión de Incidentes, PUCMM.
+
+
 
 
 
