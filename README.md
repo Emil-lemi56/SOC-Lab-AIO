@@ -24,7 +24,7 @@ Todo sobre un solo nodo Ubuntu Server, lo cual obliga a tomar decisiones reales 
 
 ## 🧠 Filosofía de este tutorial
 
-La mayoría de las guías de laboratorio muestran el comando final que funcionó y nada más. Este repositorio hace lo contrario a propósito: la sección de **[Troubleshooting y Lecciones](docs/08-troubleshooting-y-lecciones.md)** documenta los errores reales encontrados durante la implementación —desde un `curl -sO` mal escrito hasta un YAML que rompía el servicio por una indentación— junto con el método de diagnóstico usado para resolverlos. Los comandos de código obsoleto o roto que aparecían en los materiales originales del curso **no se reproducen aquí**; cada fragmento de código en este repositorio fue verificado contra la documentación oficial vigente de cada herramienta.
+La mayoría de las guías de laboratorio muestran el comando final que funcionó y nada más. Este repositorio hace lo contrario a propósito: la sección de **[Troubleshooting y Lecciones](08-troubleshooting-y-lecciones.md)** documenta los errores reales encontrados durante la implementación —desde un `curl -sO` mal escrito hasta un YAML que rompía el servicio por una indentación— junto con el método de diagnóstico usado para resolverlos. Los comandos de código obsoleto o roto que aparecían en los materiales originales del curso **no se reproducen aquí**; cada fragmento de código en este repositorio fue verificado contra la documentación oficial vigente de cada herramienta.
 
 ## 🧩 Arquitectura General
 
@@ -56,24 +56,24 @@ Detalle completo de la topología y el dimensionamiento en **[docs/01](01-arquit
 
 | # | Guía | Contenido |
 |---|---|---|
-| 01 | [Arquitectura y Dimensionamiento](docs/01-arquitectura-y-dimensionamiento.md) | Topología de red, sizing de referencia, redimensionamiento de disco |
-| 02 | [Instalación de Wazuh (AIO)](docs/02-instalacion-wazuh.md) | Preparación del SO, instalador asistido, retención de índices, riesgos |
-| 03 | [Suricata IDS](docs/03-suricata-ids.md) | Instalación, servicio, reglas, socket de control, monitoreo en vivo |
-| 04 | [Zeek NSM](docs/04-zeek-nsm.md) | Instalación, configuración standalone, rotación de logs |
-| 05 | [Integración Suricata + Zeek → Wazuh](docs/05-integracion-suricata-zeek-wazuh.md) | Agente local, decoders, reglas de correlación |
-| 06 | [Reglas Custom de Suricata](docs/06-reglas-suricata.md) | Las 20 firmas, mapeo MITRE ATT&CK y notas de corrección |
-| 07 | [Scripts de Zeek](docs/07-scripts-zeek.md) | Scripts NSM disponibles y pendientes |
-| 08 | [Troubleshooting y Lecciones](docs/08-troubleshooting-y-lecciones.md) | Diagnóstico real de cada incidente de la implementación |
+| 01 | [Arquitectura y Dimensionamiento](01-arquitectura-y-dimensionamiento.md) | Topología de red, sizing de referencia, redimensionamiento de disco |
+| 02 | [Instalación de Wazuh (AIO)](02-instalacion-wazuh.md) | Preparación del SO, instalador asistido, retención de índices, riesgos |
+| 03 | [Suricata IDS](03-suricata-ids.md) | Instalación, servicio, reglas, socket de control, monitoreo en vivo |
+| 04 | [Zeek NSM](04-zeek-nsm.md) | Instalación, configuración standalone, rotación de logs |
+| 05 | [Integración Suricata + Zeek → Wazuh](05-integracion-suricata-zeek-wazuh.md) | Agente local, decoders, reglas de correlación |
+| 06 | [Reglas Custom de Suricata](06-reglas-suricata.md) | Las 20 firmas, mapeo MITRE ATT&CK y notas de corrección |
+| 07 | [Scripts de Zeek](07-scripts-zeek.md) | Scripts NSM disponibles y pendientes |
+| 08 | [Troubleshooting y Lecciones](08-troubleshooting-y-lecciones.md) | Diagnóstico real de cada incidente de la implementación |
 
 ## 🚦 Orden Recomendado de Implementación
 
-- [ ] 1. Definir arquitectura y redimensionar disco → [docs/01](docs/01-arquitectura-y-dimensionamiento.md)
-- [ ] 2. Instalar Wazuh AIO → [docs/02](docs/02-instalacion-wazuh.md)
-- [ ] 3. Instalar y configurar Suricata → [docs/03](docs/03-suricata-ids.md)
-- [ ] 4. Instalar y configurar Zeek → [docs/04](docs/04-zeek-nsm.md)
-- [ ] 5. Integrar ambos sensores con Wazuh → [docs/05](docs/05-integracion-suricata-zeek-wazuh.md)
-- [ ] 6. Desplegar el set de reglas custom → [docs/06](docs/06-reglas-suricata.md)
-- [ ] 7. Desplegar los scripts de Zeek → [docs/07](docs/07-scripts-zeek.md)
+- [ ] 1. Definir arquitectura y redimensionar disco → [docs/01](01-arquitectura-y-dimensionamiento.md)
+- [ ] 2. Instalar Wazuh AIO → [docs/02](02-instalacion-wazuh.md)
+- [ ] 3. Instalar y configurar Suricata → [docs/03](03-suricata-ids.md)
+- [ ] 4. Instalar y configurar Zeek → [docs/04](04-zeek-nsm.md)
+- [ ] 5. Integrar ambos sensores con Wazuh → [docs/05](05-integracion-suricata-zeek-wazuh.md)
+- [ ] 6. Desplegar el set de reglas custom → [docs/06](06-reglas-suricata.md)
+- [ ] 7. Desplegar los scripts de Zeek → [docs/07](07-scripts-zeek.md)
 - [ ] 8. Generar tráfico de prueba y validar alertas de extremo a extremo
 
 ## ✅ Estado del Proyecto
@@ -87,7 +87,7 @@ Detalle completo de la topología y el dimensionamiento en **[docs/01](01-arquit
 | Correlación Suricata + Zeek (regla 100150) | 🟡 Pendiente de validar |
 | Socket de control de Suricata (`suricatasc`) | 🟡 Error de permisos por resolver |
 
-Detalle en [docs/08](docs/08-troubleshooting-y-lecciones.md#pendientes-reales-del-proyecto).
+Detalle en [docs/08](08-troubleshooting-y-lecciones.md#pendientes-reales-del-proyecto).
 
 ## 🗺️ Roadmap — Próximos Pasos
 
