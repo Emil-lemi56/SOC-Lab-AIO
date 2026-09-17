@@ -8,7 +8,7 @@
   <a href="URL_AQUI"><img src="https://img.shields.io/badge/OS-Ubuntu%20Server%2024.04-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu Server"></a>
   <a href="URL_AQUI"><img src="https://img.shields.io/badge/Curso-Gesti%C3%B3n%20de%20Incidentes-7C4DFF?style=for-the-badge&logo=googleclassroom&logoColor=white" alt="Curso"></a>
   <a href="URL_AQUI"><img src="https://img.shields.io/badge/Estado-En%20progreso-D4A017?style=for-the-badge&logo=statuspage&logoColor=white" alt="Estado"></a>
-  <a href="https://https://www.linkedin.com/in/emil-martinez-moreno-1007b8334/"><img src="https://img.shields.io/badge/LinkedIn-Conectemos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://https://www.linkedin.com/in/emil-martinez-moreno/"><img src="https://img.shields.io/badge/LinkedIn-Conectemos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
 > Tutorial completo, paso a paso, para desplegar un SOC All-in-One (Wazuh + Suricata + Zeek) sobre un único nodo Linux. No es solo una lista de comandos: cada fase documenta también los errores reales que aparecieron al construirlo y **por qué** ocurrieron — porque esa es la habilidad que realmente se evalúa en Gestión de Incidentes: leer un log de error y llegar a la causa raíz, no solo copiar comandos de un manual.
