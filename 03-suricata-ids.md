@@ -1,6 +1,6 @@
 # 🦈 Suricata IDS
 
-[⬅ Volver al índice](../README.md)
+[⬅ Volver al índice](README.md)
 
 Suricata es un motor **IDS/IPS** de código abierto: inspecciona el tráfico de red en tiempo real y lo compara contra un conjunto de **reglas (firmas)**. Cuando un paquete o flujo coincide con una firma, genera una alerta en formato JSON (`eve.json`).
 
