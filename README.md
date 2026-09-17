@@ -103,5 +103,5 @@ Para expandir el SOC más allá de la capa de detección de red (NIDS/NSM):
 
 ## ✍️ Autor
 
-*(tu nombre) — Matrícula (tu matrícula)*
+*Emil — Matrícula 10166165*
 Proyecto del curso **Gestión de Incidentes**, PUCMM.
