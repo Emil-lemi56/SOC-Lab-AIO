@@ -1,6 +1,6 @@
 # 🔗 Integración: Suricata + Zeek → Wazuh
 
-[⬅ Volver al índice](../README.md)
+[⬅ Volver al índice](README.md)
 
 ## Arquitectura de ingesta
 
