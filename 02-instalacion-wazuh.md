@@ -1,6 +1,6 @@
 # ⚙️ Instalación de Wazuh (AIO)
 
-[⬅ Volver al índice](../README.md)
+[⬅ Volver al índice](README.md)
 
 Instala Wazuh Manager + Indexer + Dashboard en modo single-node sobre el mismo host.
 
