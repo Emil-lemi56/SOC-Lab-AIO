@@ -1,6 +1,6 @@
 # 🧵 Scripts de Zeek
 
-[⬅ Volver al índice](../README.md)
+[⬅ Volver al índice](README.md)
 
 El plan original contempla 20 scripts/firmas para Zeek, a cargar desde `$ZEEKPATH/site/` mediante `@load`. A la fecha de este tutorial, **2 de esos 20 scripts están completos y listos para usar**; el resto sigue pendiente de redacción y validación (ver [Estado y pendientes](#estado-y-pendientes) abajo) — se documenta así, con honestidad, en vez de presentar contenido no probado como terminado.
 
