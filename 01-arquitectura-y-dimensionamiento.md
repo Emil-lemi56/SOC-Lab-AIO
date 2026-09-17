@@ -31,7 +31,7 @@ Este es un laboratorio académico, no el entorno de producción de la tabla ante
 
 ## Topología de Red
 
-![Diagrama de arquitectura](https://drive.google.com/file/d/14NN5cwaQN2bHJM37xGf8hieWwIvLvHZZ/view?usp=sharing)
+[Diagrama de arquitectura](https://drive.google.com/file/d/14NN5cwaQN2bHJM37xGf8hieWwIvLvHZZ/view?usp=sharing)
 
 | Interfaz | IP | Rol |
 |---|---|---|
