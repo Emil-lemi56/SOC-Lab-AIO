@@ -1,4 +1,4 @@
-# 🛡️ Tutorial: Cómo Implementar un SOC (Wazuh + Suricata + Zeek)
+# 🛡️  Laboratorio basico SOC (Wazuh + Suricata + Zeek)
 ### Laboratorio SOC AIO · Gestión de Incidentes · PUCMM
 
 <p align="center">
